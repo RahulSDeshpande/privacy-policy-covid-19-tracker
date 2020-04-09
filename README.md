@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-I built the COVID-19 app as a free app. This SERVICE is provided by at no cost and is intended for use as is.
+I built the COVID-19 Tracker app as a free app. This SERVICE is provided by at no cost and is intended for use as is.
 
 I want to inform you that I don't use any use or track any user data.
 
